@@ -3,3 +3,4 @@ This has changed.
 This is commit amend
 The merge conflict happens
 This is a FeatureB Branch
+Master check for squash
