@@ -1,3 +1,4 @@
 This is a README File B
 This is commit amend
 Let's make a change
+Squash merge example
